@@ -1,3 +1,10 @@
+# Hi there :raised_hand_with_fingers_splayed:
+#### I am Tsot, short for Tsotne. I build & break stuff :space_invader:
+- :telescope: I am currently working on switching my Portfolio Website to a Node/Express App
+- :seedling: I am currently learning NodeJS & ExpressJs
+- :mailbox: How to reach me: [@My LinkedIn](https://www.linkedin.com/in/tsotne-gvadzabia/)
+- :zap: Fun Fact: Big Fan of the :space_invader: emoji
+
 <!--START_SECTION:waka-->
 **I'm a night 🦉** 
 
