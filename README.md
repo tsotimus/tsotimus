@@ -1,5 +1,5 @@
 # Hi there :raised_hand_with_fingers_splayed:
-#### I am Tsot, short for Tsotne. I build & break stuff :space_invader:
+#### I am Tsot, short for Tsotne (the T is silent :wink:). I build & break stuff :space_invader:
 - :telescope: I am currently working on switching my Portfolio Website to a Node/Express App
 - :seedling: I am currently learning NodeJS & ExpressJs
 - :mailbox: How to reach me: [@My LinkedIn](https://www.linkedin.com/in/tsotne-gvadzabia/) or [@My Website](https://tsotnegvadzabia.me/contact)
