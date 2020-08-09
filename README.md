@@ -9,11 +9,11 @@ Take a look at my Projects on my [Portfolio](https://tsotnegvadzabia.me/) or for
 
 You can see some statistics, that are updated daily, below!:space_invader:
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-65-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-57-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 654 Contributions in year 2020
+> 🏆 655 Contributions in year 2020
  > 
 > 📦 Used 0 Bytes in GitHub's Storage 
  > 
@@ -27,8 +27,8 @@ You can see some statistics, that are updated daily, below!:space_invader:
 
 ```text
 🌞 Morning    69 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.81% 
-🌆 Daytime    138 commits    ███████░░░░░░░░░░░░░░░░░░   29.61% 
-🌃 Evening    146 commits    ███████░░░░░░░░░░░░░░░░░░   31.33% 
+🌆 Daytime    139 commits    ███████░░░░░░░░░░░░░░░░░░   29.83% 
+🌃 Evening    145 commits    ███████░░░░░░░░░░░░░░░░░░   31.12% 
 🌙 Night      113 commits    ██████░░░░░░░░░░░░░░░░░░░   24.25%
 
 ```
@@ -37,10 +37,10 @@ You can see some statistics, that are updated daily, below!:space_invader:
 ```text
 Monday       79 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.95% 
 Tuesday      38 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.15% 
-Wednesday    96 commits     █████░░░░░░░░░░░░░░░░░░░░   20.6% 
+Wednesday    95 commits     █████░░░░░░░░░░░░░░░░░░░░   20.39% 
 Thursday     50 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.73% 
 Friday       104 commits    █████░░░░░░░░░░░░░░░░░░░░   22.32% 
-Saturday     62 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.3% 
+Saturday     63 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.52% 
 Sunday       37 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.94%
 
 ```
