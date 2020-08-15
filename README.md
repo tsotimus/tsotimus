@@ -9,7 +9,7 @@ Take a look at my Projects on my [Portfolio](https://tsotnegvadzabia.me/) or for
 
 You can see some statistics, that are updated daily, below!:space_invader:
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-37-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-33-blue)
 
 **🐱 My GitHub Data** 
 
