@@ -11,17 +11,17 @@ You can see some statistics, that are updated daily, below!:space_invader:
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-33-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My Github Data** 
 
-> 🏆 671 Contributions in 2020
+> 🏆 671 Contributions in the year 2020
  > 
-> 📦 Used 0 Bytes in GitHub's Storage 
+> 📦 0 Bytes Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 17 Public Repositories 
+> 📜 17 Public repositories
  > 
-> 🔑 0 Owned Private Repository 
+> 🔑 0 Private repository 
  > 
 **I'm a Night 🦉** 
 
@@ -32,7 +32,7 @@ You can see some statistics, that are updated daily, below!:space_invader:
 🌙 Night      113 commits    ██████░░░░░░░░░░░░░░░░░░░   23.69%
 
 ```
-📅 **I'm Most Productive on Fridays** 
+📅 **I'm Most Productive on Friday** 
 
 ```text
 Monday       81 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.98% 
@@ -46,22 +46,22 @@ Sunday       41 commits     ██░░░░░░░░░░░░░░░�
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spend My Time On** 
 
 ```text
-⌚︎ Timezone: Europe/London
+⌚︎ Time zone: Europe/London
 
-💬 Languages: 
+💬 Programming Languages: 
 JavaScript               47 mins             ████████████████████████░   97.87% 
 Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   2.13%
 
-🔥 Editors: 
+🔥 Code Editors: 
 VS Code                  48 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
 portRevamp               48 mins             █████████████████████████   100.0%
 
-💻 Operating Systems: 
+💻 Operating System: 
 Windows                  48 mins             █████████████████████████   100.0%
 
 ```
