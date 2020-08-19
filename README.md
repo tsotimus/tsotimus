@@ -52,17 +52,16 @@ Sunday       41 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time zone: Europe/London
 
 💬 Programming Languages: 
-JavaScript               41 mins             ████████████████████████░   97.56% 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   2.44%
+No Activity Tracked This Week
 
 🔥 Code Editors: 
-VS Code                  42 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-portRevamp               42 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  42 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
