@@ -13,15 +13,15 @@ You can see some statistics, that are updated daily, below!:space_invader:
 
 **🐱 My Github Data** 
 
-> 🏆 671 Contributions in the year 2020
+> 🏆 671 Contributions in the Year 2020
  > 
 > 📦 0 Bytes Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 17 Public repositories
+> 📜 17 Public Repositories
  > 
-> 🔑 0 Private repository 
+> 🔑 0 Private Repository 
  > 
 **I'm a Night 🦉** 
 
@@ -46,15 +46,15 @@ Sunday       41 commits     ██░░░░░░░░░░░░░░░�
 ```
 
 
-📊 **This Week I Spend My Time On** 
+📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time zone: Europe/London
+⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
 No Activity Tracked This Week
 
-🔥 Code Editors: 
+🔥 Editors: 
 No Activity Tracked This Week
 
 🐱‍💻 Projects: 
