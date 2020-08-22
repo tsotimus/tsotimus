@@ -9,7 +9,7 @@ Take a look at my Projects on my [Portfolio](https://tsotnegvadzabia.me/) or for
 
 You can see some statistics, that are updated daily, below!:space_invader:
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.0%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
@@ -40,16 +40,18 @@ Sunday       41 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-JavaScript               22 mins             █████████████████████████   100.0%
+JavaScript               34 mins             ███████████░░░░░░░░░░░░░░   45.39% 
+CSS                      28 mins             █████████░░░░░░░░░░░░░░░░   36.94% 
+HTML                     13 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.67%
 
 🔥 Editors: 
-VS Code                  22 mins             █████████████████████████   100.0%
+VS Code                  1 hr 16 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-portRevamp               22 mins             █████████████████████████   100.0%
+portRevamp               1 hr 16 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  22 mins             █████████████████████████   100.0%
+Windows                  1 hr 16 mins        █████████████████████████   100.0%
 
 ```
 
