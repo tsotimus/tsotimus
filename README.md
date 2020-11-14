@@ -40,16 +40,17 @@ Sunday       40 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+PHP                      1 hr 9 mins         █████████████░░░░░░░░░░░░   53.99% 
+SCSS                     59 mins             ███████████░░░░░░░░░░░░░░   46.01%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 9 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+byChloe                  2 hrs 9 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 9 mins        █████████████████████████   100.0%
 
 ```
 
