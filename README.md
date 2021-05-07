@@ -1,6 +1,6 @@
 # Hi there :raised_hand_with_fingers_splayed:
 #### I am Tsot, short for Tsotne (the T is silent :wink:). I build & break stuff :space_invader:
-- :telescope: I am currently working on Freelance Projects & My Dissertation for my Final Year of Computer Science
+- :telescope: I am currently working on Freelance Projects & My Dissertation for my final year of CS
 - :seedling: I am currently learning and using the MERN Stack, WordPress & Shopify
 - :mailbox: How to reach me: [@My LinkedIn](https://www.linkedin.com/in/tsotne-gvadzabia/) or [@My Website](https://tsotnegvadzabia.me/contact)
 - :zap: Fun Fact: Big Fan of the :space_invader: emoji
