@@ -11,6 +11,18 @@ You can see some statistics below!:space_invader:
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.5%20million%20lines%20of%20code-blue)
 
+**🐱 My Github Data** 
+
+> 🏆 134 Contributions in the Year 2021
+ > 
+> 📦 398.8 kB Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 20 Public Repositories 
+ > 
+> 🔑 5 Private Repositories  
+ > 
 **I'm a Night 🦉** 
 
 ```text
@@ -63,5 +75,5 @@ Windows                  17 mins             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 06/07/2021
+ Last Updated on 07/07/2021
 <!--END_SECTION:waka-->
