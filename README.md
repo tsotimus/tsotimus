@@ -15,7 +15,7 @@ You can see some statistics below!:space_invader:
 
 > 🏆 301 Contributions in the Year 2021
  > 
-> 📦 398.7 kB Used in Github's Storage 
+> 📦 398.8 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -74,5 +74,5 @@ Mac                      4 hrs 49 mins       ███████████�
 ```
 
 
- Last Updated on 03/08/2021
+ Last Updated on 04/08/2021
 <!--END_SECTION:waka-->
