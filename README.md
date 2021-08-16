@@ -13,7 +13,7 @@ You can see some statistics below!:space_invader:
 
 **🐱 My Github Data** 
 
-> 🏆 307 Contributions in the Year 2021
+> 🏆 308 Contributions in the Year 2021
  > 
 > 📦 398.9 kB Used in Github's Storage 
  > 
