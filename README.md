@@ -5,7 +5,7 @@
 - :mailbox: How to reach me: [@My LinkedIn](https://www.linkedin.com/in/tsotne-gvadzabia/) or [@My Website](https://tsotnegvadzabia.me/contact)
 - :zap: Fun Fact: Big Fan of the :space_invader: emoji
 
-Take a look at my Projects on my [Portfolio](https://tsotnegvadzabia.me/) or for a more **up to date** experience browse my GitHub Repositories.
+Take a look at my Projects on my [Portfolio](https://tsotne.co.uk/) or for a more **up to date** experience browse my GitHub Repositories.
 
 You can see some statistics below!:space_invader:
 <!--START_SECTION:waka-->
