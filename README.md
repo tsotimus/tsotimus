@@ -15,7 +15,7 @@ You can see some statistics below!:space_invader:
 
 > 🏆 453 Contributions in the Year 2021
  > 
-> 📦 408.0 kB Used in GitHub's Storage 
+> 📦 408.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -75,5 +75,5 @@ Windows                  5 hrs 6 mins        ██████░░░░░�
 ```
 
 
- Last Updated on 22/09/2021
+ Last Updated on 23/09/2021
 <!--END_SECTION:waka-->
