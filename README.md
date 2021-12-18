@@ -9,8 +9,6 @@ Take a look at my Projects on my [Portfolio](https://tsotne.co.uk/) or for a mor
 
 You can see some statistics below!:space_invader:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-484%20hrs%2051%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -75,5 +73,5 @@ Mac                      1 hr 14 mins        ███████████�
 ```
 
 
- Last Updated on 17/12/2021
+ Last Updated on 18/12/2021
 <!--END_SECTION:waka-->
