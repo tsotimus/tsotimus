@@ -2,7 +2,7 @@
 #### I am Tsot, short for Tsotne (the T is silent :wink:). I build & break things :space_invader:
 - :telescope: I am currently working on Freelance Projects & My Dissertation for my final year of CS
 - :seedling: I am currently learning and using the MERN Stack, WordPress & Shopify
-- :mailbox: How to reach me: [@My LinkedIn](https://www.linkedin.com/in/tsotne-gvadzabia/) or [@My Website](https://tsotnegvadzabia.me/contact)
+- :mailbox: How to reach me: [@My LinkedIn](https://www.linkedin.com/in/tsotne-gvadzabia/) or [@My Website](https://tsotne.co.uk/contact)
 - :zap: Fun Fact: Big Fan of the :space_invader: emoji
 
 Take a look at my Projects on my [Portfolio](https://tsotne.co.uk/) or for a more **up to date** experience browse my GitHub Repositories.
