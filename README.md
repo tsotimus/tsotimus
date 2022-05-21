@@ -9,7 +9,7 @@ Take a look at my Projects on my [Portfolio](https://tsotne.co.uk/) or for a mor
 
 You can see some statistics below!:space_invader:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-756%20hrs%2045%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
@@ -54,22 +54,22 @@ Sunday       120 commits    █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-JavaScript               15 hrs 14 mins      ██████████████████████░░░   87.62% 
-SCSS                     2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.34% 
+JavaScript               13 hrs 27 mins      █████████████████████░░░░   86.21% 
+SCSS                     2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.75% 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03% 
 TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
 🔥 Editors: 
-VS Code                  17 hrs 23 mins      █████████████████████████   100.0%
+VS Code                  15 hrs 36 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-website                  17 hrs 23 mins      █████████████████████████   100.0%
+website                  15 hrs 36 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  17 hrs 23 mins      █████████████████████████   100.0%
+Windows                  15 hrs 36 mins      █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 21/05/2022 01:41:35 UTC
+ Last Updated on 21/05/2022 08:35:47 UTC
 <!--END_SECTION:waka-->
