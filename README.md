@@ -9,7 +9,7 @@ Take a look at my Projects on my [Portfolio](https://tsotne.co.uk/) or for a mor
 
 You can see some statistics below!:space_invader:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-761%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-626%20Thousand%20lines%20of%20code-blue)
 
@@ -54,21 +54,19 @@ Sunday       115 commits    ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-JavaScript               36 mins             ██████████████████████░░░   91.44% 
-SCSS                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   8.4% 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.15%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  39 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-website                  39 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  39 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 01/06/2022 16:41:01 UTC
+ Last Updated on 02/06/2022 02:10:02 UTC
 <!--END_SECTION:waka-->
