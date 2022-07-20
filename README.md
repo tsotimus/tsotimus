@@ -9,13 +9,13 @@ Take a look at my Projects on my [Portfolio](https://tsotne.co.uk/) or for a mor
 
 You can see some statistics below!:space_invader:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-761%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-626%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 438 Contributions in the Year 2022
+> 🏆 441 Contributions in the Year 2022
  > 
 > 📦 438.3 kB Used in GitHub's Storage 
  > 
@@ -68,5 +68,5 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 20/07/2022 08:37:19 UTC
+ Last Updated on 20/07/2022 16:40:00 UTC
 <!--END_SECTION:waka-->
