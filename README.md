@@ -25,6 +25,48 @@ You can see some statistics below!:space_invader:
  > 
 > 🔑 13 Private Repositories  
  > 
+**I'm a Night 🦉** 
 
- Last Updated on 22/08/2022 02:28:42 UTC
+```text
+🌞 Morning    50 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.25% 
+🌆 Daytime    117 commits    ██████░░░░░░░░░░░░░░░░░░░   23.98% 
+🌃 Evening    166 commits    ████████░░░░░░░░░░░░░░░░░   34.02% 
+🌙 Night      155 commits    ████████░░░░░░░░░░░░░░░░░   31.76%
+
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday       102 commits    █████░░░░░░░░░░░░░░░░░░░░   20.9% 
+Tuesday      42 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.61% 
+Wednesday    44 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.02% 
+Thursday     47 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.63% 
+Friday       57 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.68% 
+Saturday     72 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.75% 
+Sunday       124 commits    ██████░░░░░░░░░░░░░░░░░░░   25.41%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/London
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+
+ Last Updated on 22/08/2022 08:37:00 UTC
 <!--END_SECTION:waka-->
