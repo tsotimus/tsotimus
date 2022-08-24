@@ -11,13 +11,13 @@ You can see some statistics below!:space_invader:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-761%20hrs%202%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-627%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-625%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 606 Contributions in the Year 2022
+> 🏆 615 Contributions in the Year 2022
  > 
-> 📦 438.9 kB Used in GitHub's Storage 
+> 📦 439.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -37,12 +37,12 @@ You can see some statistics below!:space_invader:
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday       102 commits    █████░░░░░░░░░░░░░░░░░░░░   20.9% 
-Tuesday      42 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.61% 
-Wednesday    44 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.02% 
-Thursday     47 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.63% 
+Monday       104 commits    █████░░░░░░░░░░░░░░░░░░░░   21.31% 
+Tuesday      44 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.02% 
+Wednesday    43 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.81% 
+Thursday     45 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.22% 
 Friday       57 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.68% 
-Saturday     72 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.75% 
+Saturday     71 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.55% 
 Sunday       124 commits    ██████░░░░░░░░░░░░░░░░░░░   25.41%
 
 ```
@@ -68,5 +68,5 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 22/08/2022 16:36:24 UTC
+ Last Updated on 24/08/2022 02:29:59 UTC
 <!--END_SECTION:waka-->
