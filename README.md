@@ -15,7 +15,7 @@ You can see some statistics below!:space_invader:
 
 **🐱 My GitHub Data** 
 
-> 🏆 720 Contributions in the Year 2022
+> 🏆 723 Contributions in the Year 2022
  > 
 > 📦 439.5 kB Used in GitHub's Storage 
  > 
@@ -25,48 +25,6 @@ You can see some statistics below!:space_invader:
  > 
 > 🔑 13 Private Repositories  
  > 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning    52 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.42% 
-🌆 Daytime    120 commits    ██████░░░░░░░░░░░░░░░░░░░   24.05% 
-🌃 Evening    166 commits    ████████░░░░░░░░░░░░░░░░░   33.27% 
-🌙 Night      161 commits    ████████░░░░░░░░░░░░░░░░░   32.26%
-
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday       105 commits    █████░░░░░░░░░░░░░░░░░░░░   21.04% 
-Tuesday      44 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.82% 
-Wednesday    47 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.42% 
-Thursday     44 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.82% 
-Friday       57 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.42% 
-Saturday     79 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.83% 
-Sunday       123 commits    ██████░░░░░░░░░░░░░░░░░░░   24.65%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Europe/London
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
-
- Last Updated on 13/09/2022 16:44:09 UTC
+ Last Updated on 14/09/2022 02:45:06 UTC
 <!--END_SECTION:waka-->
