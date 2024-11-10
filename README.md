@@ -9,6 +9,8 @@ Take a look at my Projects on my [Portfolio](https://tsotne.co.uk/) or for a mor
 
 You can see some statistics below!:space_invader:
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-761%20hrs%202%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.3%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -21,6 +23,45 @@ You can see some statistics below!:space_invader:
  > 
 > 🔑 25 Private Repositories 
  > 
+**I'm an Early 🐤** 
 
- Last Updated on 10/11/2024 00:54:50 UTC
+```text
+🌞 Morning                8997 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
+🌆 Daytime                31859 commits       ███████████████░░░░░░░░░░   59.89 % 
+🌃 Evening                10185 commits       █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
+🌙 Night                  2158 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   11348 commits       █████░░░░░░░░░░░░░░░░░░░░   21.33 % 
+Tuesday                  8115 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
+Wednesday                10077 commits       █████░░░░░░░░░░░░░░░░░░░░   18.94 % 
+Thursday                 10576 commits       █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
+Friday                   7275 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
+Saturday                 1671 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+Sunday                   4137 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/London
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 10/11/2024 08:34:41 UTC
 <!--END_SECTION:waka-->
