@@ -17,6 +17,8 @@ You can see some statistics below!:space_invader:
 
 > 📦 472.7 kB Used in GitHub's Storage 
  > 
+> 🏆 1,023 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 32 Public Repositories 
@@ -63,5 +65,5 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 24/12/2024 08:13:51 UTC
+ Last Updated on 24/12/2024 16:11:19 UTC
 <!--END_SECTION:waka-->
