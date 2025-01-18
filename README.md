@@ -17,13 +17,53 @@ You can see some statistics below! :space_invader:
 
 > 📦 463.3 kB Used in GitHub's Storage 
  > 
+> 🏆 82 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 31 Public Repositories 
  > 
 > 🔑 29 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                879 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
+🌆 Daytime                2366 commits        █████░░░░░░░░░░░░░░░░░░░░   20.89 % 
+🌃 Evening                5936 commits        █████████████░░░░░░░░░░░░   52.42 % 
+🌙 Night                  2143 commits        █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   2044 commits        █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
+Tuesday                  1175 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
+Wednesday                1264 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
+Thursday                 1952 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
+Friday                   1128 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
+Saturday                 1259 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
+Sunday                   2502 commits        ██████░░░░░░░░░░░░░░░░░░░   22.09 % 
+```
 
 
- Last Updated on 18/01/2025 08:18:53 UTC
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/London
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 18/01/2025 16:17:55 UTC
 <!--END_SECTION:waka-->
