@@ -12,12 +12,11 @@ I get paid to build & break things.
 
 ## 🧑‍💻 Open Source
 
-I maintain and contribute to several open source projects.  
+I maintain several open source projects.  
 Here’s how things are going on npm:
 
-![Weekly NPM Downloads](https://img.shields.io/npm/dw/@tsotrocki?label=weekly%20downloads&style=flat-square)  
-![Monthly NPM Downloads](https://img.shields.io/npm/dm/@tsotrocki?label=monthly%20downloads&style=flat-square)
-
+![Downloads](https://img.shields.io/npm-stat/dw/tsotrocki?label=downloads&style=flat-square)  
+![Downloads (Monthly)](https://img.shields.io/npm-stat/dm/tsotrocki?label=downloads&style=flat-square)
 ---
 
 ## 🚀 Portfolio Projects
