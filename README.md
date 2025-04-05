@@ -6,7 +6,7 @@ I get paid to build & break things.
 - 🔭 Passionate about fast, scalable, and flexible products  
 - 🌱 Currently learning... probably another JavaScript framework 😂  
 - 📬 Reach me on [LinkedIn](https://www.linkedin.com/in/tsotne-gvadzabia/) or via [my website](https://tsotne.co.uk/contact)  
-- ⚡ Fun fact: I’m a big chess fan ♙
+- ⚡ Fun fact: I’m a big chess fan ♟
 
 ---
 
