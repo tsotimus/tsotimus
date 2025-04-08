@@ -15,8 +15,9 @@ I get paid to build & break things.
 I maintain several open source projects.  
 Here’s how things are going on npm:
 
-![Downloads](https://img.shields.io/npm-stat/dw/tsotrocki?label=downloads&style=flat-square)  
-![Downloads (Monthly)](https://img.shields.io/npm-stat/dm/tsotrocki?label=downloads&style=flat-square)
+![NPM Downloads by package author](https://img.shields.io/npm-stat/dw/tsotrocki)
+![NPM Downloads by package author](https://img.shields.io/npm-stat/dm/tsotrocki)
+
 ---
 
 ## 🚀 Portfolio Projects
